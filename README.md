@@ -1,2 +1,3 @@
 # Flaguesser
-https://flaguesser.surge.sh/
+Personal project to learn and practice React.
+Link: https://flaguesser.surge.sh/
